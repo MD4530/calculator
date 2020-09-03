@@ -1,0 +1,9 @@
+#mainHead {
+    margin-left: 15%;
+}
+
+#firstInput, #secondInput, #selectOption, #button {
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+}
